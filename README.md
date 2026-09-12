@@ -11,7 +11,7 @@
 - Clearly marked ad placeholder on the article page
 
 ## Before publishing
-1. Replace `hello@smartdigitalguide.example` with your real email.
+1. Replace `onlineworker426@gmail.com` with your real email.
 2. Replace the placeholder contact form with a real form handler.
 3. Add your real domain, favicon, logo and social profiles.
 4. Add several more genuinely useful, original articles.
